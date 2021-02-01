@@ -10,17 +10,17 @@ ACMer, algorithm lover, poor at math.
 
 Arch & Ubuntu, VSCode/Emacs
 
-Contact me : 
-
-​	QQ=584764256
-
-​	telegram:[jjikkollp](https://t.me/jjikkollp)
 
 
+**Contact me :** 
 
-My Friends:
+​		QQ=584764256
 
-​	[NaVi_Awson](https://www.cnblogs.com/NaVi-Awson/)
+​		telegram:[jjikkollp](https://t.me/jjikkollp)
 
-​	[Margatroid](https://blog.mgt.moe/)
+**My Friends:**
+
+​		[NaVi_Awson](https://www.cnblogs.com/NaVi-Awson/)
+
+​		[Margatroid](https://blog.mgt.moe/)
 
