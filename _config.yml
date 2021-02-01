@@ -7,10 +7,10 @@ title: jjikkollp                          # the main title
 tagline: A stupid ACMer@HUST   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  aaaaaaaaaaaaaaaa.
+  jjikkollp's blog.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'http://blog.jjikkollp.icu'
+url: 'https://blog.jjikkollp.icu'
 
 author: jjikkollp                  # change to your full name
 
