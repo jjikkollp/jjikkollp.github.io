@@ -24,3 +24,6 @@ Arch & Ubuntu, VSCode/Emacs
 
 ​		[Margatroid](https://blog.mgt.moe/)
 
+​		[Aya_Uchida](https://www.cnblogs.com/Aya-Uchida/)
+
+​		[rapiz](https://rapiz.me)
