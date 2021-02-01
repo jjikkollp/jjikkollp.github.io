@@ -12,15 +12,15 @@ Arch & Ubuntu, VSCode/Emacs
 
 Contact me : 
 
-QQ=584764256
+​	QQ=584764256
 
-telegram:[jjikkollp](https://t.me/jjikkollp)
+​	telegram:[jjikkollp](https://t.me/jjikkollp)
 
 
 
 My Friends:
 
-[NaVi_Awson](https://www.cnblogs.com/NaVi-Awson/)
+​	[NaVi_Awson](https://www.cnblogs.com/NaVi-Awson/)
 
-[Margatroid](https://blog.mgt.moe/)
+​	[Margatroid](https://blog.mgt.moe/)
 
