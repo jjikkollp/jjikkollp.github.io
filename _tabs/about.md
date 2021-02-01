@@ -4,5 +4,5 @@ icon: fas fa-info
 order: 4
 ---
 
+A CS student @HUST, algorithm lover, poor at math.
 
-> **Note**: Add Markdown syntax content to file `_tabs/about.md` and it will show up on this page.
