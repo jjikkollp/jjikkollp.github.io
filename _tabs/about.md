@@ -4,5 +4,14 @@ icon: fas fa-info
 order: 4
 ---
 
-A CS student @HUST, algorithm lover, poor at math.
+A CS student @HUST.
 
+ACMer, algorithm lover, poor at math.
+
+Arch & Ubuntu, VSCode/Emacs
+
+Contact me : 
+
+QQ=584764256
+
+telegram:https://t.me/jjikkollp
